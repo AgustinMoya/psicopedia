@@ -19,7 +19,7 @@
 
         <activity android:name=".DetalleNota" />
         <activity
-            android:name=".preguntas"
+            android:name=".PreguntasActivity"
             android:label="@string/title_activity_preguntas"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
