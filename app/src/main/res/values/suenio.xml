@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="suenio">
+        <item>¿Cuán útil es establecer rutinas antes de dormir?</item>
+        <item>Distintos estudios hallaron una asociación entre dormir mejor y establecer cronogramas y rutinas de sueño, principalmente en niños pequeños (bebés y preescolares). Es decir: cuanto mejor establecidas las rutinas de los niños antes de dormir, mejor calidad de sueño.
+\n \n Una buena rutina previa a acostarse, prepara el escenario ideal para que los niños tengan un buen descanso. No hace falta que sean rutinas largas: pueden durar 30 minutos, e incluir actividades como un simple masaje de 10 minutos, una serie de actividades relajantes como por ejemplo contar un cuento o cantar una canción suavemente. Cuanto más consistentes seamos con estas actividades, mejor (o sea, no hacerlas solo un día y después olvidarnos).
+Establecer rutinas antes de dormir ha probado reducir la resistencia de los niños a la hora de acostarse, así como también el retraso en el inicio del sueño. También disminuye los despertares durante la noche, aumenta la continuidad del sueño y hasta mejora la calidad del sueño de los padres!
+Por último, debemos tener cuidado con aquellas rutinas que demanden actividad en los niños: comer o beber algo, juegos de mesa o videojuegos, se asocian con peor calidad de sueño.
+</item>
+
+        <item>¿Qué relación existe entre la hora de acostarse y dormir bien en niños de hasta 12 años?</item>
+       <item>En general acostarse más tarde de lo debido (definido generalmente como después de las 21:00 hs) está asociado a dormir peor: duraciones más cortas del sueño, aumento de despertarse nocturnos y mayor demora en inicio del sueño.
+\n \n
+En niños de 1 a 3 años se fomentan las siestas. En caso de una ausencia de siestas programadas con regularidad, esto se asocia con resultados de sueño más deficientes, como por ejemplo menor cantidad de horas de sueño durante la noche.
+\n \n
+Por otro lado dejar a los niños decidir su propio horario de sueño no parece una gran idea: estudios hallaron que aquellos niños con libertad para decidir la hora en que quieren irse a dormir pasan menos horas en la cama que aquellos que reciben un horario establecido por sus padres
+</item>
+
+        <item>
+            ¿Cómo se relacionan la hora de la cena con la calidad del sueño del niño?
+        </item>
+
+        <item>
+            Las actividades que los niños realizan durante el día parecen jugar cierto papel en los patrones de sueño de los niños.
+\n \n
+Por ejemplo, los tiempos de las comidas tienen cierta influencia y pareciera que aquellas familias que dedican más tiempo a comer juntos podrían ayudar a que los niños luego duerman durante más tiempo.
+\n \n
+También parecieran influir positivamente para que los niños duerman mejor aquellos padres con expectativas claras en relación a la hora de la comida (es decir, padres cuyas expectativas acerca de cuánto tiempo los chicos permanecerán en la mesa y cuánta comida querrán comer resultan razonables) y el hecho de que los niños no pasen demasiado tiempo solos en casa luego de la escuela.
+
+        </item>
+    </string-array>
+
+
+</resources>

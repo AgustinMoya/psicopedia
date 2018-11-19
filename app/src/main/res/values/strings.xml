@@ -1,13 +1,26 @@
 <resources>
     <string name="app_name">Psicopedia</string>
     <string name="title_activity_detalle_notas">DetalleNotas</string>
-    <string name="large_text"/>
+    <string name="large_text" />
     <string name="action_settings">Settings</string>
     <string name="title_activity_preguntas">Preguntas</string>
 
+    //CATEGORÍAS
     <string name="title_bienestar">Bienestar</string>
+    <string name="title_alimentacion">Alimentación</string>
+
     <string name="pregunta_1_bienstar">Pregunta 1?</string>
     <string name="pregunta_2_bienstar">Pregunta 2?</string>
     <string name="pregunta_3_bienstar">Pregunta 3?</string>
     <string name="pregunta_4_bienstar">Pregunta 4?</string>
+    <string name="title_activity_quienes_somos">quienes_somos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_splash">splash</string>
+
+
+
 </resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="banio">
+        <item>S.O.S. estoy intentando que mi hijo use el baño y no lo logro!</item>
+
+        <item>Hay una variedad de métodos que se pueden usar para que un niño empiece a usar el baño, la mayoría basados en alentar con apoyo a que el niño reconozca la necesidad de orinar o defecar, y que pueda aguantar hasta llegar al inodoro.
+        \n \n
+            Al comienzo de este proceso es esperable que ocurran dificultades, nunca hay que dejar de apoyar y dar aliento a nuestro hijo en este proceso de aprendizaje.
+
+            Quejas frecuentes:
+            \n
+            "Mi hijo no quiere usar el baño": tarde o temprano tu hijo querrá estar seco por su propio bien, pero si comienza desde temprano a ver este proceso como una batalla con vos, esto será más difícil. Cuando esto sucede, se sugiere dejar el entrenamiento para ir al baño por aproximadamente un mes, luego intentar de nuevo, lentamente y con calma.
+            \n \n
+            "Mi hijo no se queda sentado en el orinal/bacinilla":  cuando más interesante y divertido sea este proceso, más interesado estará tu hijo en quedarse un rato tranquilo sobre el orinal. Podés guardar algún libro o juguete en el baño, y elogiarlo con ganas cuando logre sentarse en el orinal, ya sea logre o no logre orinar
+            \n \n
+            "Ya dejamos los pañales pero mi hijo sigue mojándose":  Una opción es regresar a los pañales e intentarlo nuevamente en unas pocas semanas. Si por el contrario elegís seguir sin pañales, hay que estar preparado para cambiar y lavar mucha ropa. En ambos casos, lo importante es no criticar a tu hijo, mantener la paciencia y saber que esto es un proceso de aprendizaje.
+            Cuidado con confundir a tu hijo deteniendo e iniciando este entrenamiento en ir al baño con demasiada frecuencia. Si decidís detenerlo, dejalo por algunas semanas antes de comenzar de nuevo
+
+        </item>
+
+        <item>¿Mi hijo ya está en edad de pedir ir al baño?</item>
+        <item>El entrenamiento para ir al baño es un proceso por el que pasan todos los niños y un hito importante del desarrollo.
+               \n \n
+En las culturas occidentales como la nuestra, los niños generalmente comienzan a ir al baño entre los 2 y los 3 años. Y el establecimiento de la continencia diurna (aguantar las ganas e ir al baño) se da generalmente primero en las niñas que en los niños (para ser más precisos, 3 meses antes en niñas).
+\n \n
+Por lo general, los niños y niñas que dejan de usar pañales durante el día, tardan como máximo 1 año antes de hacerlo también durante la noche. En niños con algún tipo de dificultad en el aprendizaje, puede que este proceso lleve más tiempo.
+\n \n
+Algunas señales de que tu hijo esté listo para comenzar a "entrenarse" en ir baño pueden ser:
+\n -> Empieza a reconocer cuándo necesita orinar o defecar, y te lo informa
+\n -> Comienza a interesarse en que otras personas también usen el inodoro
+\n -> Los períodos de tiempo entre pañales mojados comienzas a ser cada vez más largos
+\n -> Tu hijo comienza a desarrollar habilidades lingüísticas y habla seguido sobre ir al baño
+\n \n
+Es importante no precipitarnos y, si estamos dentro de los tiempos promedio, saber esperar a que nuestro hijo muestre signos de estar listo. También es importante que la vida familiar sea relativamente estable.
+
+        </item>
+        <item>¿Por qué mi hij@ no quiere ir al baño aunque tenga ganas?</item>
+        \n \n
+        Algunos padres ven a sus hijos ponerse en puntas de pie mientras hacen algo o cruzar con fuerza las piernas mientras ejercen presión sobre el perineo, y saben inmediatamente que se están conteniendo las ganas de ir al baño a orinar o defecar.
+
+        \n \n
+        ¿Por qué lo hacen?
+        \nEn general es porque no les gusta el baño o porque no quieren dejar de hacer lo que están haciendo (mirar TV, jugar). Tampoco ayuda si el baño está sucio o si sienten que no tienen la suficiente intimidad.
+        \n \n
+        Primero hay que descartar causas orgánicas o neurogénicas. También, detectar si la postergación es esporádica o habitual. Las conductas de postergación pueden aparecer por primera vez a partir de los 2 años y en general duran hasta los 6 años. Se trata de un comportamiento bastante común en niños pequeños: estudios hallaron que más de la mitad de los niños de 3 años y medio y casi la mitad de los de 6 lo hacen.
+        \n \n
+        A la postergación de ir al baño muchas veces le sigue la incontinencia urinaria diaria: cuando los niños ignoran durante mucho tiempo las señales de necesidad de ir a orinar, se produce la contracción de un músculo de la pared de la vejiga urinaria (el detrusor), se pierde la capacidad de suprimir la orina y aparecen episodios de incontinencia.
+        \n \n
+        El problema de acostumbrarse al hábito de postergar es que puede iniciarse voluntariamente, pero cuando se convierte en hábito se mantiene aunque no sea la intención: si cuando el niño pospone alcanza su objetivo (ej.: seguir jugando y no hacerse pis encima), y persigue este objetivo con regularidad (ej.: todas las tardes), entonces cada vez que se encuentre en una situación similar es posible que intente hacer lo mismo.
+
+    </string-array>
+</resources>

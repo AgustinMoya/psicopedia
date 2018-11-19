@@ -4,12 +4,12 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="alimentacion">#B3CE74</color>
-    <color name="bienestar">#76C599</color>
-    <color name="consumo_de_sustancias">#AA9866</color>
-    <color name="desarrollo_sexual">#AE6767</color>
+    <color name="bienestar">#8ACFAD</color>
+    <color name="consumo_de_sustancias">#B6B584</color>
+    <color name="desarrollo_sexual">#CA8787</color>
     <color name="familia">#CE7676</color>
-    <color name="habitos_del_baño">#74C0C2</color>
-    <color name="habitos_estudio">#64BE94</color>
-    <color name="habitos_suenio">#6764AC</color>
-    <color name="tecnologia">#9865AF</color>
+    <color name="habitos_del_baño">#97CFC7</color>
+    <color name="habitos_estudio">#78CAA8</color>
+    <color name="habitos_suenio">#82A1BA</color>
+    <color name="tecnologia">#C984B9</color>
 </resources>

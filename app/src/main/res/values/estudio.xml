@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="estudio">
+        <item>¿Cómo abordamos el tiempo y material de estudio?</item>
+        <item>A veces no es fácil lograr que nuestros hijos se sienten a estudiar. Pero el problema a veces  no termina ahí: ¿cómo sabemos si el modo en que están estudiando es el más útil?
+              \n \n
+            Distintos investigadores se han propuesto identificar las prácticas de estudio más efectivas, aquí van algunas de ellas...
+            \n \n
+            El modo en que administramos el tiempo es importante. Por ejemplo, definir prioridades y reorganizar actividades: analizar qué materias estudiar primero o qué actividad mi hijo puede no hacer al menos durante una semana de pruebas, para dedicar tiempo a estudiar
+            \n \n
+            Gestionar bien el tiempo también significa anticipación...
+            \n
+            ...la planificación a largo plazo quizás permita tener en mente los principales proyectos para el bimestre o trimestre, aquellos que requieran buscar con tiempo algún material o libro.
+            \n \n
+            ...la planificación a corto plazo implica contar con una agenda semanal donde estén detalladas las pruebas más próximas y fechas de entrega cercanas
+            \n \n
+            Dividir un material grande de estudio en varias partes pequeñas, y estudiar cada parte en distintos momentos o días ayuda a lograr una mejor comprensión y retención a largo plazo del aprendizaje. Cuando estudiamos todo el material de una sola vez, el aprendizaje es rápidamente olvidado ya que solo es almacenado en la memoria a corto plazo.
+            \n \n
+            Repetir la lectura de pequeñas fracciones de estudio, y autoevaluarse antes del examen ha probado dar buenos resultados. Si cuando nos autoevaluamos tenemos que hacer un esfuerzo por recordar lo estudiado, puede que sea una buena notica: esforzarnos para recuperar la información que está en nuestra memoria fortalece el aprendizaje!
+            \n \n
+            Durante una tarde de estudio, se sugiere evitar estudiar un único tema de una única manera. En su lugar es recomendable que, después de estudiar un tema durante un período prolongado de tiempo, cambiemos la atención del cerebro a un tema nuevo, o usemos un método distinto para seguir con el mismo tema (por ejemplo, pasar de leer todo el material detalladamente y resumir, a hacer una lectura rápida. O estudiar un tiempo solo y luego en grupo
+</item>
+
+        <item>
+            ¿Qué es el "efecto prueba" y cuáles son los mejores métodos para afianzar el conocimiento a largo plazo?
+        </item>
+
+        <item>
+            Existe un fenómeno llamado "el efecto prueba"
+             \n \n
+Es el aprendizaje que se produce cuando pasamos por un momento de evaluación. Ahí la información ya aprendida tiene que ser recuperada de nuestra memoria. Al esforzarnos por recordar y analizar lo aprendido, el conocimiento se afianza.
+ \n \n
+El impacto de este aprendizaje puede darse ya sea que se trate de un examen escrito o prueba formal, o incluso mediante preguntas autogeneradas por un estudiante sobre la marcha, mientras está estudiando.
+ \n \n
+Y cuando más relevantes las preguntas de la evaluación o autoevaluación, mejor! Intentar buscar relaciones entre dos conceptos o aplicar los conceptos aprendidos al mundo real ayuda a la elaboración del aprendizaje.
+ \n \n
+Por otro lado, luego de haber estudiado hay distintas formas útiles de intentar afianzar el aprendizaje a largo plazo. Algunas de ellas son:
+ \n -> Hacer una pausa para recordar los puntos centrales de lo leído e intentar explicar su significado
+ \n ->	Escribir o narrar lo que acabamos de leer usando nuestras propias palabras. Ayuda a identificar los puntos más importantes, entender el significado más profundo del texto y relacionar temas
+ \n ->	Revisar el material estudiado en grupo. Al colaborar con otros compañeros, los estudiantes plantean preguntas sobre temas que no les quedaron claros, resuelven problemas, y se ayudan mutuamente a aprender. Cada estudiante se beneficia de las fortalezas de los demás, y ayuda con sus propios conocimientos a compensar las dificultades de los otro
+
+        </item>
+
+        <item>¿Cuántas horas debe dormir un estudiante el día anterior a un examen?</item>
+
+        <item>
+            De manera contraria a lo que algunos estudiantes suponen (sobre todo en la escuela secundaria y en la universidad), pasar la noche antes de un examen estudiando y sin dormir (o durmiendo poco) no es lo recomendable: dormir al menos 7 horas durante la noche favorece el almacenaje de la información recientemente estudiada en la memoria a largo plazo, proceso que se produce durante las fases de sueño nocturno profundo.
+ \n \n
+Estudios demostraron que aquellos jóvenes que dormían 6 o menos de 6 horas, y pasaron a dormir 8 horas por día, afianzaron un 25% más los conocimientos aprendidos durante un día.
+ \n \n
+Por otro lado, un estudio realizado con 320 estudiantes de Farmacia en la Universidad de Auburn comparó la relación entre patrones de sueño y desempeño académico.  Los resultados mostraron que aquellos que obtenían puntuaciones superiores a 9 puntos habían dormido en promedio 1,3 horas más la noche anterior al examen que aquellos que obtuvieron una puntuación menor a 7.
+
+        </item>
+    </string-array>
+</resources>

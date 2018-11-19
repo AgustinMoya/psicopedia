@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //ARTICULO 1
+    <string-array name="alimen">
+    <item>¿Qué puede hacer un padre para lograr que su hijo NO quiera comer?</item>
+    <item>A veces creemos que algunas estrategias para que nuestros hijos coman nos van a ayudar pero generar más problemas!
+\n \n
+        Establecer límites, reglas o restricciones con respecto al consumo de alimentos no garantiza necesariamente resultados. Es útil cuando forma parte de una estrategia constante a lo largo del tiempo y no cuando solo ponemos límites de vez en cuando.
+\n \n
+        Por ejemplo presionar y persuadir en exceso a nuestros hijos para que coman más frutas y vegetales, puede terminar generando un efecto contrario, llevando incluso a que los niños elijan comer menos de este tipo de alimentos. Esto sucede principalmente en niños pequeños de 2 a 6 años, y en menor medida entre los 7 a 11 años.
+\n \n
+        Por otro lado, utilizar a la comida como premio por una buena conducta también puede ser problemático: ¡las comidas con las que premiamos muchas veces son poco saludables!
+Si felicitamos una buena conducta comprando una golosina o snack (papas fritas o palitos) estamos promoviendo a estos alimentos como parte de las preferencias alimentarias de los niños.
+
+\n \n
+            Quizás un mejor modo de reconocer una buena conducta sea compartiendo tiempo de juego con nuestros hijos o felicitándolos. Distintos estudios hallaron que el uso de elogios y halagos es especialmente positivo para aumentar los hábitos de alimentarios saludables, sobre todo en niños de 2 a 6 años.
+\n \n \n \n
+    </item>
+
+    <item>¿Qué puede hacer un padre para lograr que su hijo SI quiera comer?</item>
+    <item>
+        Los padres tienen distintas formas de influir sobre la conducta alimentaria de sus hijos. Por ejemplo, mostrándoles sus propios comportamientos al comer, estableciendo reglas que restrinjan ciertos alimentos, o elogiando el consumo de ciertas comidas.
+\n \n
+Un tema que definitivamente importa es el modo en que los propios padres se relacionan con la comida: si nuestros hijos notan que comemos aquellos alimentos que les exigimos probar, y si nos ven alimentarnos saludablemente, hay más posibilidades de que ellos también desarrollen buenos hábitos alimentarios.
+Educar con el ejemplo (por ejemplo mostrando que disfrutamos una buena comida saludable) es una gran estrategia para fomentar una actitud abierta y curiosa hacia la comida.
+\n \n
+Por otro lado, los niños y niñas desarrollan sus gustos según los alimentos que conocen y a los cuales tienen acceso: cuantos más alimentos nutritivos y saludables halla en casa, y a la vez cuanto más limitada sea la presencia de alimentos no saludables, fomentamos en mayor medida una buena conducta alimentaria.
+\n \n
+Finalmente, resulta muy importante el modo en que las comidas son preparadas, presentadas y disponibles para los niños: según como luzcan los alimentos (por ejemplo si son atractivos o llaman la atención), pueden despertar más interés en los niños.
+\n \n
+Por último, en niños de 7 a 11 años, hablar con ellos acerca de la comida (por ejemplo, explicar los beneficios de comer vegetales) tiene efectos beneficiosos, aunque no siempre alcanza para combatir los efectos negativos que a veces tienen los medios de comunicación y la publicidad.
+
+    </item>
+    </string-array>
+</resources>
